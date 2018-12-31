@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Check out www.zaccohn.com for more about me.
+Check out [www.zaccohn.com](https://www.zaccohn.com) for more about me.
 
 ### Best Of Posts
 

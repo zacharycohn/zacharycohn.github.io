@@ -19,11 +19,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: zaccohn@gmail.com
-  facebook: https://www.facebook.com/ZacharyCohn
-  flickr: https://www.flickr.com/photos/zacharycohn
-  github: https://github.com/zacharycohn
+  facebook: ZacharyCohn
+  flickr: zacharycohn
+  github: zacharycohn
   instagram: zacharycohn
-  linkedin:
+  linkedin: zacharycohn
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: zacharycohn

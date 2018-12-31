@@ -80,7 +80,7 @@ a {
 
 ul, ol {
   line-height: 1.6;
-  margin: 150px 0;
+  margin: 15px 0;
   padding-left: 60px;
 }
 
@@ -90,6 +90,10 @@ ul {
 
 ol {
   list-style-type: decimal;
+}
+
+li{
+  margin: 100px 0;
 }
 
 ol ul, ul ol, ul ul, ol ol {

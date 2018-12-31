@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: https://www.zaccohn.com
 ---
 
 Some information about you!

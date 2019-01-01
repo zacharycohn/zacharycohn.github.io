@@ -1,0 +1,23 @@
+I'm going to start posting a story from most of the places I visit. I'm going to start out with Madison, Wisconsin:
+
+Alissa (Muse_of_Fire) and I were in the car, driving to a daycamp for pre-teen boys and girls in Madison. This was the first day we were working with Girls, Inc (the group that runs this camp), and we had absolutely no idea what to expect. We didn't know whether we'd be working with boys, girls, or both. We didn't know what kind of facilities we had to work with, or how many people we'd have to work with.
+
+The night before, Alissa, Chad (her training partner), and I had dinner and planned out what we were going to do the next day. It took about two hours, and due to The Game (if you say certain words, you have to do 10 pushups), there were pretty constant distractions - but we finally worked out a rough lesson plan. We would start with a Julie Angel video, give a brief talk about Parkour, then, boys or girls, we were going to focus heavily on games.
+
+We pull up to the driveway and get out of the car. We examine the Kennedy Heights Community Center, it's pretty much just a big temp building. There's a wooden fence outside for balancing, and a playground around the back. The director of the camp came out to meet us, introduced us to the girls, and we were on our own! There were eight girls, I'd say age 12 to 14\. Long story short, they were not impressed by our pep talk, or by the Julie Angel video. Looking back, we probably needed something a bit more action oriented.
+
+Once we got them outside though, we started to play some warmup games. Alissa started by having them all run in place, and then drop into the landing position whenever she said drop. We did some side QM, and did some other fun warmup activities. We wanted to start off with a game, so I ran a game of QM Redlight/Greenlight. Went to the fence to do some partner balancing drills, and then we played a balance game. Two people would stand about arms length apart, and try to push each other over without moving their feet. The first person who's feet moved, lost. We then played a finger jousting game, and then I taught precisions.
+
+This was the only thing "taught" and "drilled" all day. Later on in Seattle, Rafe Kelly brought up the point that children and adults learn differently. Children are very "lets go go go stop talking and let me do it!" Adults have goals, they want to see progressions, and they want a specific set of steps to get to their goals. When teaching children, at least in the beginning, drilling something will only drive them away. It bores them, and they do not understand why it must be done. I felt it was necessary, however, to "drill" precisions, just for a little bit. We used one end of a sidewalk to another, so it was maybe two feet. I had them jump twice, and then I taught them something new.
+
+First I just had them jump. Then I taught them about jumping in an arc, instead of straight to it. I had them jump two more times with this in mind, then I taught them about landing on the balls of the feet. Jump two more times, and then I taught them about bending their legs and compressing. Jump two more times, and that was it. I feel like this was the best way to introduce them to all the necessary concepts. I didn't want to drown them in information, or have them just standing around listening too long, but they needed to know those three basic concepts. It worked well, too. They didn't get bored, and they had fun with it.
+
+As soon as we were done the lesson, the girls got to learn about some practical applications during a game of PDQ. It was a little bit bigger than optimal (8 girls, the director, Alissa, Chad, myself), but it was still a lot of fun, and some of the girls really got into it!
+
+PDQ was the last game and activity of the day, and we gave them a quick pep talk, and then left. When the girls started, they were pretty typical pre-teen girls. Completely uninterested and unengaged. By the end, they were running and jumping around, talking and laughing and having fun.
+
+I heard back from Alissa yesterday, who just had the second meeting. Apparently, I'm the cute one, because all the girls were asking where I was and when I'd be back. Which is cool....
+
+Kinda. :)
+
+[![](http://www.americanparkour.com/teamapk/Happydud/Pictures/Trip/Madison/madgroupsmall.jpg)](http://www.americanparkour.com/teamapk/Happydud/Pictures/Trip/Madison/madgroupmedium.jpg "Chad, Zac, Alissa, Lee")

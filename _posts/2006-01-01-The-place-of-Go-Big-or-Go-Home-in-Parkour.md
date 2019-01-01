@@ -1,0 +1,17 @@
+In short, there is no place for the extreme sports "Go Big or Go Home" attitude in Parkour.
+
+When I started "parkour," (i put that in quotes because of the following) I really didn't know what it was all about. I just saw the techniques, I saw the videos, and I went out and did some really stupid stuff that could have seriously injured me. For a little while (and really, a VERY little while) the group I train with were all about "Go big or go home."
+
+I realized, pretty quickly (thankfully), that this was not what parkour was about. It isn't "Go big or go home." It isn't the X-Games. It's not about "jumping off of s%@*." I was damn lucky I didn't break both my legs. As it is, I bashed my hip on a screwed up precision (though that wasn't a "go big" thing, it was just sandy and I didn't check my surfaces (ANOTHER lesson learned)), and to this day a year and a half later, it still gets sore if I lay on it for too long.
+
+Don't trust me on this. Don't blindly take my word for truth, or lies. Read. Read the articles stickied on the .Net forums. Read the articles on APK. Read the articles on NYPK, Colorado PK, any of the other matured community sites (meaning not www.ihartpkandjumpingoffastuff.com). Read and THINK about it, ponder it, meditate on it - whatever on it - until you realize WHY parkour is not about "go big or go home."
+
+I think too quickly seasoned traceurs tell new people that big drops aren't what it's all about, but they don't give any reasons (other than the obvious health/safety reasons which a lot of people apparently don't care about.)
+
+In a thread I was reading recently, a new guy was saying he was drilling 10 foot drops - great. Now you know you can do it if you have to. What's the point in doing something THAT risky over and over and over again until you get hurt?
+
+A traceur named Hardcoretraceur, whom I really respect, said something at the NYPK07 jam: Someone pointed to a roof and said "Could you jump from that?"  
+He replied "Yes, but I don't want to."  
+Hardcoretraceur believes, and I agree with him, that the best way to train for drops is to do drops. Which means while squats and pistols and whatever else helps condition the legs, nothing conditions them for drops like doing drops. But he, and I, want to be doing parkour when we're 30\. 40\. 50\. We value our knees, so we stay ground-level. There's no reason to practice jumping off of buildings. If you ever need to, if you train hard enough with low drops, you'll probably be able to make a few big drops without a problem. But if you train a ton of high drops, the damage you're doing is going to prevent you from doing ANYTHING pretty quickly.
+
+So please, anyone who is still of the "Go big or go home" attitude: Don't change because I tell you to. Or because M2 tells you to, or Sebastian, or eZ, or David Belle. But do LISTEN to us. Take our advice. The advice of people who have been in your position. And then do your own reading, your own thinking, and keep searching until you find the path to the same conclusion we found.

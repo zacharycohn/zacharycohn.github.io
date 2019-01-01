@@ -1,0 +1,13 @@
+Game: Today’s game was invented during one of the Philly jams. It is called PDQM. It doesn’t really stand for anything, just a combination of “Pretty Darn Quick” and “Quadrupedal Motion.” This game is a combination of PDQ and QM Tag.
+
+Rules: All players must start the game on all fours. Any body configuration is acceptable, as long as all four limbs are touching the ground. The game begins like PDQ: each player counts off. No player may move until the player whose turn it is jumps into the air. The twist to this game is that the players must be on all fours. In order to tag someone out, you must tag someone’s hand with your hand, or their foot with your foot. When the player who is “it” is leaping, all other players may move to avoid or to tag someone else out.
+
+Goal: To be the last player untagged.
+
+Variation: Limb elimination. This is actually a pretty standard variant that we play by. If your left hand gets tagged, then you lose that hand, but you are still in the game. You only get “out” when you can no longer support yourself and a non-limb part of your body touches the ground (chest, butt, head, etc). If you lose two feet and a hand, you better hope you can balance on one hand.
+
+Physical Benefits: This game combines the physical benefits of PDQ with QM tag. With the limb elimination modification, it force you to be able to balance in strange positions as well as move from strange positions with unusual restrictions. This game can tire you out more quickly than PDQ or QM tag, and it also is a lot of fun.
+
+Other benefits: This game is an example of the creativity that can be applied to parkour and games. We had two games, and after some modifications to the rules, came up with an entirely new game. Creating games doesn’t have to be hard.
+
+Homework: I want everyone to do this as a creativity exercise. Pick two games. Review the rules in your head quickly, and then figure out a way to combine them. The new game doesn’t have to work well, or be fun, and you don’t even have to play it! Just synthesize a set of rules for a new game from two pre-existing games. **I want everyone who reads this to do this exercise three times, and then post the best game you come up with in the comments of this article.** Your brain is just like a big muscle. The more you work it, the stronger it gets. The more you use your creativity, the more creative you get. So start exercising your creativity, and let me see what you come up with.

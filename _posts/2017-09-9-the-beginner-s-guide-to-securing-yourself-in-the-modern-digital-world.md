@@ -3,7 +3,7 @@ layout: post
 title: How To Not Be the Slowest Gazelle on the Internet
 ---
 
-Equifax. Ugh.
+Equifax. Ugh!
 
 The [news dropped yesterday](http://www.slate.com/blogs/the_slatest/2017/09/07/equifax_hack_exposes_personal_data_of_143_million_americans.html) that Equifax, one of the three credit bureaus, got hacked and leaked 143 million customers information, including the Social Security numbers, driver’s license numbers, birth dates, addresses, and more. This is devastatingly bad. I wrote up this for some friends a few years ago, but never published it. Today, I decided to publish it.
 

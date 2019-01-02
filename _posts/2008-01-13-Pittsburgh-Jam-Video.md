@@ -1,3 +1,3 @@
 Here's the video I cut together for the Pittsburgh "PKFR International" Jam.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/chR0zZzIL3k&amp;hl=en"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/chR0zZzIL3k&amp;hl=en" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/chR0zZzIL3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

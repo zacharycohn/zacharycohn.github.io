@@ -24,3 +24,6 @@ ished up as everyone went back to Mike Avery's house. We hung out there for a fe
 Overall, it was very, very hot. People did a ton of pushups due to “the Game” (if you say certain words, you have to do 10 pushups. No I won't tell you what they are, because I don't want to do them! They're all negative words though, and the game is played with the surface goal of fostering a more positive attitude. It's really just an excuse to make people do pushups though.), with Desmund Mitchell racking up 350 at one point. They started selling the newest Texas Parkour t-shirt (a sunset, with a silhouetted traceur vaulting a cow) We sweat a lot, and drank approximately seven hundred gallons of water. A ton of people showed up, and it was a huge success.
 
 I'd definitely back to Texas – although maybe I'll wait until Winter.
+
+Jam Video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xo3gqYd89e8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

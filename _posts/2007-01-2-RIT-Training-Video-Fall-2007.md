@@ -4,6 +4,6 @@ Unfortunately, there were only four of us on Sunday, so the video doesn't give a
 
 In Mid-Atlantic news, Primal Fitness (the Parkour Gym in DC) has moved! Only about a mile, it's just the next subway station down from where it was before. They have moved to a bigger location, and now offer more classes. If you're ever down in the area, I HIGHLY recommend you check them out. Mark and Jessie (the owners) are really great guys, and their Parkour classes are great for beginners and advanced traceurs alike.
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/CuFbF7rFWLs"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/CuFbF7rFWLs" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CuFbF7rFWLs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Youtube version of the RIT Parkour Training 2007 video.](http://youtube.com/watch?v=CuFbF7rFWLs)

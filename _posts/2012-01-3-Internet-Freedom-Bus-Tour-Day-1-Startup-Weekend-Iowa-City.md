@@ -1,8 +1,8 @@
 <a title="" internet="" freedom="" bus="" tour:="" day="" 0:="" iowa="" city="" startup="" weekend""="" href="" http:="" www.zaccohn.com="" 2012="" 10="" internet-bus-tour-day-0="" ""="" target="" _blank""="">Last post I talked about Startup Weekend: Iowa City in general</a>, and why I enjoyed it so much. But one thing I skipped out on was Sunday, the Day the Internet Showed Up.
 
-[caption id="""" align=""aligncenter"" width=""600""] The Internet 2012 Bus Tour bus[/caption]
+<img src="https://www.zaccohn.com/images/InternetBusTour/t_bus.jpeg" caption="Internet Freedom Bus Tour">
 
-[Editors note - I'm joining the Bus Tour because in January, I co-produced an anti-SOPA video called <a title="" the="" day="" lolcats="" died""="" href="" http:="" www.youtube.com="" watch?v="1p-TV4jaCMk&quot;&quot;" target="" _blank""="">The Day The Lolcats Died</a>. 700,000 views in a week, this was called The Protest Song of the Anti-SOPA Movement.
+[Editors note - I'm joining the Bus Tour because in January, I co-produced an anti-SOPA video called <a href="https://www.youtube.com/watch?v=1p-TV4jaCMk">The Day The Lolcats Died</a>. 700,000 views in a week, this was called The Protest Song of the Anti-SOPA Movement.
 
 After this, I wanted to stay involved in fighting for issues I cared about, and started to develop Startup Weekend's Government vertical. In addition to having Gov't themed Startup Weekend events, we're trying to invite elected officials out to Startup Weekend's to help show them that startups and tech entrepreneurship is happening in their constituencies, and that it's something they need to care about.
 
@@ -24,7 +24,7 @@ They're also carrying a massive scroll - a Declaration of Internet Freedom - tha
 
 After the Startup Weekend event, we went to an Italian restaurant to eat dinner (paid for by GrubWithUs - thanks guys!). At one point, Ben noticed that there were 13 of us... and that there were 13 people in The Last Supper painting.
 
-[caption id="""" align=""aligncenter"" width=""600""] The Last (Internet) Supper[/caption]
+<img src="https://www.zaccohn.com/images/InternetBusTour/t_lastsupper.jpg">
 
 So this happened.
 

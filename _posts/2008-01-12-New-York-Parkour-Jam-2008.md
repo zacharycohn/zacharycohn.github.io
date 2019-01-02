@@ -1,3 +1,3 @@
 [NYPK (New York Parkour)](www.nyparkour.com "New York Parkour") had their annual jam the 20-22nd of June. Here's the video!
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/xNmoB1H38-U&amp;hl=en&amp;fs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/xNmoB1H38-U&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNmoB1H38-U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

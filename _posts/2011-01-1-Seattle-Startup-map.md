@@ -6,9 +6,7 @@ So last night I wrote a quick google apps script to scrape the Seattle20 Startup
 
 And here is the final product!
 
-<iframe src="http://batchgeo.com/map/5b141fa59e30b20e6dbcbddc03d16b5e" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;border-radius:10px;"></iframe>
-
-<small>View [Seattle Startup Map](http://batchgeo.com/map/5b141fa59e30b20e6dbcbddc03d16b5e) in a full screen map</small>
+<iframe src="http://batchgeo.com/map/5b141fa59e30b20e6dbcbddc03d16b5e" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;border-radius:10px;"></iframe></p> <p><small>View <a href="http://batchgeo.com/map/5b141fa59e30b20e6dbcbddc03d16b5e">Seattle Startup Map</a> in a full screen map</small>
 
 A few interesting things to note. Of the 476 startups in the Index, Switchboard was only able to find addresses for 155 of them. Of the remaining 321 startups, some don't exist anymore, and some just didn't come up in Switchboard (For example, I know the Cheezburger Network exists, and I know their address, but Switchboard couldn't find it).
 

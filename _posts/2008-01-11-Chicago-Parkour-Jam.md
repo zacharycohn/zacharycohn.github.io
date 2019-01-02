@@ -1,3 +1,3 @@
 This is the video for the Chicago jam from June 28th. Over 75 people showed up, representing everywhere from Washington, Texas, Virginia, and everywhere in between.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/-pp74lP2rpU&amp;hl=en&amp;fs=1"><param name="allowFullScreen" value="true"><embed src="http://www.youtube.com/v/-pp74lP2rpU&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3S-JaNcqYQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

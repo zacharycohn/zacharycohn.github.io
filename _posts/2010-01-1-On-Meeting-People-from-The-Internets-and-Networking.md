@@ -1,5 +1,3 @@
-"
-
 My name is Zachary Cohn, and I've met a lot of people from the Internet. Most recently I met my doppelganger, Zachary Cohen.
 
 [caption id=""attachment_133"" align=""alignleft"" width=""150"" caption=""The Internet is a Series of Tubes""]<a href="" http:="" www.zaccohn.com="" wp-content="" uploads="" 2011="" 04="" the-internet-a-series-of-tubes.jpg""=""></a>[/caption]Meeting people from the Internet is not a big deal to me anymore, although other people still freak out when I mention it. There have been three primary circles I've met people from: Massassi, Parkour, and The Rest of the Internet. The first two really helped me be comfortable with the last one.

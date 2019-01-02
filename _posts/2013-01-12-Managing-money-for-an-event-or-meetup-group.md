@@ -1,5 +1,3 @@
-"
-
 If you're running a regular event or meetup group that charges for events or sells sponsorships, you're going to need a plan for what to do with the money.
 
 In the beginning, it won't be much and you can keep it in your personal bank account (or in a lockbox under your bed...). But after a little while, you're going to get uncomfortable with mixing personal and meetup finances. Many people start exploring starting a legal entity of some sort.

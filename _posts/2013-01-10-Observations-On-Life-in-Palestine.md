@@ -1,5 +1,3 @@
-"
-
 I've been in Ramallah for about 48 hours now. I ran a workshop with the accelerator, did a couple 1-on-1 mentoring sessions, and ate lunch with them. We've been talking about startups a lot, but also been talking a lot about life in Palestine.
 
 While on a walk with my host, I asked him why I didn't go through a checkpoint on my way into the city from the airport. I've heard a lot about the checkpoints, and I was nervous... but very confused when my taxi pulled into the city without stopping anywhere.

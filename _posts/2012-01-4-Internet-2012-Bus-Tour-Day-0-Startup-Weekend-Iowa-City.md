@@ -1,5 +1,3 @@
-"
-
 I just finished facilitating Startup Weekend: Iowa City. This is the 5th Startup Weekend event I've facilitated, but probably the 14th or so I've been to.
 
 I've mostly been to larger events - New York City, Seattle, Atlanta, DC - that draw 100+ people. But this was a smaller event, about 25 attendees. (This was actually my second ""small"" event, my first being a few weeks ago in Louisville, Kentucky.).

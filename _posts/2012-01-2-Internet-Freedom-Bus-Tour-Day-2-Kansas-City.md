@@ -1,5 +1,3 @@
-"
-
 <a href="" http:="" www.zaccohn.com="" 2012="" 10="" internet-freedom-bus-tour-day-1-startup-weekend-iowa-city="" ""="" title="" internet="" freedom="" bus="" tour="" day="" 1""="" target="" _blank""="">Day 1 of my experience on The Internet Freedom Bus Tour was amazing.</a> Day 2 started with an early departure from Iowa City. The gang was up most of the night playing Werewolf (a party game similar to Mafia where someone is the werewolf and you have to figure out who it is... before they eat you!) It was a very long bus ride to Kansas City which actually took up most of the day.
 
 Life on the bus is interesting. I now have some serious appreciation for bands that go on the road. I also understand how they can say ""HELLO KANSAS CITY"" when they're actually in Iowa City. The scenery of driving through the Midwest is amazing, but between the internet (ironically) continually cutting out, old reruns of MacGuyver, and just general travel exhaustion... it was pretty hard to get any work done.
@@ -22,11 +20,7 @@ I think one of the best quotes of the night was from Alexis. He was talking abou
 
 Other great quotes from the night:
 
-""We are products of our access [to the internet.]""
-
-""When this country got started it was one big entrepreneurial adventure, and it's worked out pretty well so far.""
-
-After the amazing dinner provided by Kauffman (they gave us ribs and BBQ from the three best Ribs places in town... then told us to decide which one was best!) and the great panel, we headed out to a mixer at a bar called Sno and Co, where they serve boozie smoothies.
+""We are products of our access [to the internet.]"""When this country got started it was one big entrepreneurial adventure, and it's worked out pretty well so far."After the amazing dinner provided by Kauffman (they gave us ribs and BBQ from the three best Ribs places in town... then told us to decide which one was best!) and the great panel, we headed out to a mixer at a bar called Sno and Co, where they serve boozie smoothies.
 
 We had a fascinating discussion on minority founders and how, in one founder's eyes, the startup community is color-blind.
 

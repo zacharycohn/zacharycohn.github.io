@@ -1,5 +1,3 @@
-"
-
 Between parkour, facilitating for Startup Weekend, and a general desire to explore, I've had a lot of opportunities to travel the world. I’ve traveled solo and with friends, for business and for fun. I’ve traveled with people far more experienced than me, and people who have never left the country.
 
 During my most March-April 2014 trip (Texas, Palestine, Israel, China), I started reflecting on my best travel experiences, my worst travel experiences, and why they turned out that way. The biggest realization I had is that I enjoy traveling with people a lot more than traveling alone. That led me to decided to start organizing a lot more trips with my friends.

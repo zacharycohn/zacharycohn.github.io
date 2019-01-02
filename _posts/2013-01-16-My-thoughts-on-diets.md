@@ -10,8 +10,6 @@ Our knowledge and understanding of nutrition and how our bodies process food is 
 
 What all that boils down to is that it's impossible to say X diet or Y style of eating is the best.
 
-What I personally like about paleo is that it's actually NOT trying to use science to argue it's the best. The argument is that ""we DON'T know the optimal way to eat, but we're pretty sure a return to the sorts of foods our species has been eating for millions of years - unprocessed meats, vegetables, some fruits, nuts and seeds - is at least safe.""
-
-I don't worry about portions or ratios or counting carbs or measuring grams. I control the types of foods I eat, and then listen to my body about what I need more or less of.
+What I personally like about paleo is that it's actually NOT trying to use science to argue it's the best. The argument is that ""we DON'T know the optimal way to eat, but we're pretty sure a return to the sorts of foods our species has been eating for millions of years - unprocessed meats, vegetables, some fruits, nuts and seeds - is at least safe."I don't worry about portions or ratios or counting carbs or measuring grams. I control the types of foods I eat, and then listen to my body about what I need more or less of.
 
 It may not be optimal, but no one ever got fat from eating too much broccoli. :)

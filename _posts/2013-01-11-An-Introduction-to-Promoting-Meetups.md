@@ -1,5 +1,3 @@
-"
-
 > “If you build it, they will come.”
 
 No quote has done more of a disservice than this Field of Dreams quote. There are more startups, meetups, and corn field baseball diamonds that lay unused and empty because their creators thought that if they just built something great, people would naturally find their way to it.

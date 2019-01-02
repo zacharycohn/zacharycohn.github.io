@@ -1,5 +1,3 @@
-"
-
 Game: The first game is called PDQ, or Pretty Darn Quick. This is an incredibly popular parkour game, where the basic objective is to jump on peoples' feet. This is actually one of the more complicated games, it usually takes a practice game for everyone to get the hang of it. I often play a “demo game” as I'm teaching it, so people can see the rules and their effects.
 
 Rules: You start in a circle and everyone puts one first in the center. Someone (usually the winner of the last game) picks a random person, taps their fist, and counts “one,” moves to the next person in the circle, “two” and so on until everyone has been numbered. Once everyone has a number, everyone shouts “One, two, three, PDQ!” and everyone simultaneously takes one jump away from the center.

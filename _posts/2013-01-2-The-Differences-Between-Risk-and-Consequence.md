@@ -1,8 +1,4 @@
-"
-
-One of my parkour friends posted a video today of him doing a big jump over the water at the Seattle Waterfront. Someone commented on the video, asking ""why he would do this,"" ""what he was thinking,"" ""what is the payoff in taking risks like that?"" and that this was ""stupid for someone with so much going for them.""
-
-These are things any traceur (someone who trains parkour) has heard before, and typically knows how to respond to. But there was something else in this woman's rant that echoed something I've been thinking a lot about lately.
+One of my parkour friends posted a video today of him doing a big jump over the water at the Seattle Waterfront. Someone commented on the video, asking ""why he would do this,"" ""what he was thinking,"" ""what is the payoff in taking risks like that?"" and that this was ""stupid for someone with so much going for them."These are things any traceur (someone who trains parkour) has heard before, and typically knows how to respond to. But there was something else in this woman's rant that echoed something I've been thinking a lot about lately.
 
 She was talking about risk, but she doesn't quite understand what ""risk"" really is.
 

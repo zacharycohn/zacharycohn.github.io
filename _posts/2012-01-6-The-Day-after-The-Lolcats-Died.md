@@ -1,5 +1,3 @@
-"
-
 _Why, why are laws a thing you can buy?  
 They got paid off, should be laid off, re-election denied  
 Our web means more than lawyers, lobbies and lies  

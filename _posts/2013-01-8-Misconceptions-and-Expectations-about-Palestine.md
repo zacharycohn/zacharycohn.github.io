@@ -1,5 +1,3 @@
-"
-
 I had dinner last night with my host, a local VC, and my friend from MercyCorps who does work in Gaza, and we had a very interesting discussion about outsiders’ perception of Palestine versus reality.
 
 My friend from MercyCorps is preparing a “one pager” she’s going to use for fundraising, and I read through it to offer a second set of eyes. The stories of the help they’re providing and the impact they’ve had was great, but the most powerful part was simply a list of facts about Gaza.

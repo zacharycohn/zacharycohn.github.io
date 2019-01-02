@@ -4,13 +4,9 @@ We walked off the plane, stepped outside the airport, and got in the taxi. We to
 
 "In the last six years, there is so much new hotel and hostel." He grumbled. I asked him why.
 
-"Too many tourists come visit."
+"Too many tourists come visit.It got quiet. We weren't exactly sure what to make of that. A few minutes later, he started playing tour guide, and telling us what else was near Vienna.
 
-It got quiet. We weren't exactly sure what to make of that. A few minutes later, he started playing tour guide, and telling us what else was near Vienna.
-
-"Fifty minutes east is Bratislava. Four hours north is Prague. Three hours west is Munich."
-
-"Haha, it sounds like you don't want us here!" I interrupted him, playfully.
+"Fifty minutes east is Bratislava. Four hours north is Prague. Three hours west is Munich."Haha, it sounds like you don't want us here!" I interrupted him, playfully.
 
 "I take you back to the airport?" He laughed. I'm not entirely sure he was kidding.
 

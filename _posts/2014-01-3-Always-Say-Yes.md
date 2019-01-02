@@ -1,6 +1,4 @@
-"It's 5:45pm. We'll just head upstairs and get some rest. Lets regroup around 8pm and go out."
-
-The four of us headed up to our room. My friends laid down to take naps, while I worked on how I was going to get from Munich to Prague to catch my next flight.
+"It's 5:45pm. We'll just head upstairs and get some rest. Lets regroup around 8pm and go out.The four of us headed up to our room. My friends laid down to take naps, while I worked on how I was going to get from Munich to Prague to catch my next flight.
 
 At eight, we were going to meet up with one or two people from the walking tour of Munich we went on earlier that day and go out to a beer hall. They were going to meet up with us at the bar in the basement of the hostel at 8pm.
 

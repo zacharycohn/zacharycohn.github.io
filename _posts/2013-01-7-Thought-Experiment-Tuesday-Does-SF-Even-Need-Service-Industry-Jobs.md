@@ -1,5 +1,3 @@
-"
-
 Rents in San Francisco have been skyrocketing, and the people of San Francisco are pissed. It’s a multifaceted issue, but it boils down to a combination of A) A lot of very highly paid people in the tech industry are moving into the city, both from the suburbs and from all over the world, and B) there is not enough new housing being constructed to meet demand.
 
 When supply is constrained, prices increase. Rent is getting to the point where many people not employed by the tech industry are being priced out of their homes, neighborhoods, and the entire city. These are the people who serve our food and pick up our trash. The people who drive us to meetings and sell us clothes. The people who teach our children.
@@ -16,9 +14,7 @@ When he solves the puzzle, his phone displays his “morning apps” folder. He 
 
 “Stupid global warming,” Mark mutters, as he clicks “Add boots and gloves in your size to current Amazon order.”
 
-As Mark comes out of the shower, his son Steve is already awake, on his Faceboculous Rift, and at <a href="" http:="" www.3rdgrayd.edu.co.io="" ""="">3rdGrayd.edu.co.io</a>. To solve their problem with lack of human interaction, companies like Khan Academy and Udemy joined forces with Facebook and other advanced personal VR headsets, so children could have an interactive classroom, full of other students, in their living room. The kids watch pre-recorded lectures, and then interact with a teacher to answer their questions. Because the kids are spending most of their time watching pre-recorded lectures, a teacher is able to managed up to 500 students at once. ""Not scalable,"" Mark thinks as he shakes his head, ""but still cool.""
-
-He has just enough time to eat his breakfast Soylent before he has to run to work. Ever since the city banned privately owned cars, he takes an Uber to work every day. Lyft is cheaper, but he prefers Uber’s “unlimited use monthly subscription” plan over the pay-per-use plan Lyft still uses.
+As Mark comes out of the shower, his son Steve is already awake, on his Faceboculous Rift, and at <a href="" http:="" www.3rdgrayd.edu.co.io="" ""="">3rdGrayd.edu.co.io</a>. To solve their problem with lack of human interaction, companies like Khan Academy and Udemy joined forces with Facebook and other advanced personal VR headsets, so children could have an interactive classroom, full of other students, in their living room. The kids watch pre-recorded lectures, and then interact with a teacher to answer their questions. Because the kids are spending most of their time watching pre-recorded lectures, a teacher is able to managed up to 500 students at once. ""Not scalable,"" Mark thinks as he shakes his head, ""but still cool."He has just enough time to eat his breakfast Soylent before he has to run to work. Ever since the city banned privately owned cars, he takes an Uber to work every day. Lyft is cheaper, but he prefers Uber’s “unlimited use monthly subscription” plan over the pay-per-use plan Lyft still uses.
 
 They’re both still pretty fast though. Now that the city has also banned human-drivable cars, they were finally able to raise the speed limit to 200mph on city streets, which the self-driving cars can easily handle. Unusual amount of traffic today, but he still gets to work in 194 seconds.
 

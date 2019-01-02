@@ -10,23 +10,17 @@ The next night, I was in a similar situation. It was about 10:45, the dance star
 
 “60 shekels.”
 
-“I only need it for a few hours. How about 20 shekels?"
-
-“The day rate is 60 shekels.”
+“I only need it for a few hours. How about 20 shekels?“The day rate is 60 shekels.”
 
 “But it’s 10:45 at night, and I only need it until 1am.”
 
 “We don’t do partial rates.”
 
-“Look, it’s 10:45 at night. it’s not like anyone else is going to rent this bike. I want to give you money for it, which is money you won’t get otherwise. 20 shekels?"
-
-“I can’t give it to you for any less. What if it gets lost or stolen?”
+“Look, it’s 10:45 at night. it’s not like anyone else is going to rent this bike. I want to give you money for it, which is money you won’t get otherwise. 20 shekels?“I can’t give it to you for any less. What if it gets lost or stolen?”
 
 “Then I’ll pay the 600 shekels to replace it - and paying you 20 shekels or 60 shekels won’t change whether the bike gets stolen or not.”
 
-“Fine. Take the bike for free."
-
-I did a double take. Wait, what?
+“Fine. Take the bike for free.I did a double take. Wait, what?
 
 I liked the hostel and I wanted to pay him money. I tried to make him a counter offer, which he countered with… a cheaper offer?
 

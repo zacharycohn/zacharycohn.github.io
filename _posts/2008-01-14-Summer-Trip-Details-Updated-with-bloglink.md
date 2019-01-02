@@ -27,9 +27,7 @@ Sunday, August 3rd through Tuesday, August 5th - Charlotte, North Carolina
 Wednesday, August 6th through Friday, August 8th - Chapel Hill, North Carolina  
 Saturday, August 9th - back home to Severna Park, Maryland!
 
-*'s denote "National Jams"
-
-I hope to meet as many people along this trip as possible. I plan on putting together an email list to keep people informed of how and what I'm doing (if you want to be on it, comment on this post!), and I'll be making regular posts on American Parkour detailing more of the Parkour oriented aspects of my trip. You can find a lot of the pictures, videos, and bloggings [here](http://www.americanparkour.com/content/blogcategory/110/352/ "Zac's Summer Parkour Adventure"), or you can go to [American Parkour](http://www.americanparkour.com/ "American Parkour"), go to the top-menu item "Where's Zac" and see the listing there.
+*'s denote "National JamsI hope to meet as many people along this trip as possible. I plan on putting together an email list to keep people informed of how and what I'm doing (if you want to be on it, comment on this post!), and I'll be making regular posts on American Parkour detailing more of the Parkour oriented aspects of my trip. You can find a lot of the pictures, videos, and bloggings [here](http://www.americanparkour.com/content/blogcategory/110/352/ "Zac's Summer Parkour Adventure"), or you can go to [American Parkour](http://www.americanparkour.com/ "American Parkour"), go to the top-menu item "Where's Zac" and see the listing there.
 
 If you'd like to contact me about my trip, or you're interested in meeting me somewhere along the way, send me an email at zaccohn@gmail.com and let me know! I'm sure we can work something out.
 

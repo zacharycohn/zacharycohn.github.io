@@ -1,5 +1,3 @@
-"
-
 > Achat, shtayim, shalosh. Chamesh, shesh, sheva!
 
 On Monday night, I took a public bus from Ramallah, through the checkpoint, and into Jerusalem to meet up with a friend of mine. We were going to go salsa dancing, which apparently is big in this region.

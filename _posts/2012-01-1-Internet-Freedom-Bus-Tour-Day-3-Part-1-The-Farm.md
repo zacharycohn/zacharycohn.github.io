@@ -1,5 +1,3 @@
-"
-
 It was 1am on <a href="" http:="" www.zaccohn.com="" 2012="" 10="" internet-freedom-bus-tour-day-2-kansas-city="" ""="" title="" internet="" freedom="" bus="" tour="" day="" 2:="" kansas="" city""="" target="" _blank""="">Day 2</a> when I got back to my hotel room. Which is precisely when I realized I had left my phone charger in my backpack... on the bus. Which was at a different hotel. And my phone battery was reading 8%.
 
 Oops.

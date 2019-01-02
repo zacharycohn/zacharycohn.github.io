@@ -1,5 +1,3 @@
-"
-
 I have become enamored by the concept of guerrilla movements. The Princeton Dictionary defines a guerrilla as ""a member of an irregular armed force that fights a stronger force by sabotage and harassment."" Typically, the term guerrilla refers to warfare. People who fight with guns and bombs to inspire fear and terror in the enemy. I prefer a broader interpretation of the definition, where any tool or medium might be used to inspire any emotion.
 
 During February 2010, the Washington DC area experienced what came to be known as ""The Snowpocolypse."" Almost 4 feet of snow over the course of a weekend paralyzed most of the area. Events like this are stressful and dreaded by most adults, but to an equal intensity excite kids and teenagers everywhere because it means two things: 1) No school, and 2) snow shovels come out and it's time to make some money.  
@@ -16,9 +14,7 @@ _...with a greater faith in the character of the upcoming generation,_
 _...with a hope, that the example of their kindness be recognized and spread,_  
 _...and with a sense of charity, that we all recognize the generosity of others and continue to pay forward the good will which we are blessed.""_
 
-Since then, I've become interested in this concept of anonymity - doing good not only without expecting to be thanked, but by making it impossible to be personally thanked (or at least very difficult). During a conversation last night with <a href="" http:="" changeexperiment.blogspot.com="" ""="">Jesse Danger</a>, I was hit with an idea. I call it ""Guerrilla Compliments.""
-
-I took a pad of Post-it notes and wrote a short, positive message on each. Some were cliche sounding
+Since then, I've become interested in this concept of anonymity - doing good not only without expecting to be thanked, but by making it impossible to be personally thanked (or at least very difficult). During a conversation last night with <a href="" http:="" changeexperiment.blogspot.com="" ""="">Jesse Danger</a>, I was hit with an idea. I call it ""Guerrilla Compliments."I took a pad of Post-it notes and wrote a short, positive message on each. Some were cliche sounding
 
 [caption id=""attachment_93"" align=""alignright"" width=""240"" caption=""Post It Note""]<a href="" http:="" www.zaccohn.com="" wp-content="" uploads="" 2010="" 03="" postit.jpg""=""></a>[/caption]
 

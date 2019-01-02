@@ -1,5 +1,3 @@
-"
-
 <a title="" internet="" freedom="" bus="" tour:="" day="" 0:="" iowa="" city="" startup="" weekend""="" href="" http:="" www.zaccohn.com="" 2012="" 10="" internet-bus-tour-day-0="" ""="" target="" _blank""="">Last post I talked about Startup Weekend: Iowa City in general</a>, and why I enjoyed it so much. But one thing I skipped out on was Sunday, the Day the Internet Showed Up.
 
 [caption id="""" align=""aligncenter"" width=""600""] The Internet 2012 Bus Tour bus[/caption]

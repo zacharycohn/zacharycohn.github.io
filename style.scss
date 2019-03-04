@@ -161,7 +161,7 @@ img {
 }
 
 .masthead {
-  padding: 200px 0;
+  padding: 20px 0;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
@@ -183,6 +183,7 @@ img {
 
   img {
     border-radius: 5px;
+    margin-bottom: 15px;
   }
 }
 

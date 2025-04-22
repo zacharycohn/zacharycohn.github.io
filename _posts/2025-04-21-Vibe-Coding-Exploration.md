@@ -1,3 +1,8 @@
+---
+layout: post
+title: Vibe Coding Exploration
+---
+
 *This journal-entry style blog post chronicles my first few weeks of building software entirely with AI tools like ChatGPT and v0.dev. I’m including some learnings along the way \- mostly so I don’t forget about them in the future. While I’m numbering the days sequentially, and Day 1 and 2 were adjacent, other days may have gaps in between them as I worked on other projects.*
 
 Background: I work for a (very) small hardware startup \- 4 people. We are currently without a software engineer, but it hasn’t been an issue given the stage we’ve been in and the work we’ve been doing. 
